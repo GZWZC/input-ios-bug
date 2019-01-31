@@ -1,6 +1,7 @@
 
-Q:https://segmentfault.com/q/1010000012033973
-A:解决ios系统里 input/textarea/contenteditable 固定底部，点击输入框键盘被覆盖统一解决方案：（亲测）
+Q：[ios键盘被覆盖](https://segmentfault.com/q/1010000012033973)
+
+A：解决ios系统里 input/textarea/contenteditable 固定底部，点击输入框键盘被覆盖统一解决方案：（亲测）
 
 针对ios系统兼容
 1.version < ios11：利用原生的scrollIntoView()&&scrollIntoViewIfNeeded();
